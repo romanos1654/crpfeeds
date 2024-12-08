@@ -1,0 +1,40 @@
+# DevLog 4.0.7 - 22/09/2022
+    • Přidán ottos auto servis
+    • Upraveny kategorie u domů
+    • Přidáno FAA
+    • Přidáno pár aut do PDM
+    • Možná opraveny livery
+    • Přidáno rybaření -beta
+    • Přidán Lunapark
+    • Přidán Camping
+
+# DevLog 4.0.6 - 12/09/2022
+    • Casino visual fixes
+    • Nyní můžete hrát šipky 
+    • Vysílačka byla přepsaná do Vue
+    • Opraveno pár handlingu..
+    • Opraveny menší chyby v zabezpečení
+    • Opraveno střílení z helikoptér
+    • Novej loading (no shit)
+    • Nějaké menší fixy, které nestojí za vypsání
+
+# DevLog 4.0.5 - 29/8/2022
+    • Fix loadingscreen překladu
+    • Optimalizace doorlocku a opravení pár chyb
+    • Přidán zpět DJ pult, nyní plně funkční
+    • Práce opraváře elektřiny ( by: @D0min1k#2334 )
+    • Pár nových animaci (/e pocket)
+    • Opraveno dávání hraču do aut
+    • Pro některé pomalejši - Casino je opět zapnuto
+    • Možná opraveny duplikace kontejneru?
+    • Opraveno bugovani outfit bagu
+
+# DevLog 4.0.4 - 26/8/2022
+    • Fixed ambulance camera
+    • Při vykrádání domu lze nyní otevřít skříne
+    • Opraveny drogy, nyní je lze snad normálně sbírat
+    • Sněžení na CP by mělo být opraveno
+    • Micro optimalizace
+    • Vylepšení zabezpečení
+    • Aktualizováno casino
+    • Snížení výplat pro zahradníka
