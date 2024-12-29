@@ -1,3 +1,10 @@
+# DevLog 1.0.5 - 29/12/2024
+    • Nový Loading Screen
+    • Nové Oblečení
+    • Opravený Flipper
+    • Upravený Craftin zbraní
+    • Přidané FBI
+
 # DevLog 1.0.3 - 30/11/2024
     • Přidáno nové MDT
     • Přidaný zábavný park ( několik atrakcí , stánků , .. )
