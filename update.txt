@@ -1,3 +1,10 @@
+# DevLog 1.0.55 - 04/01/2025
+    • Úprava handlingů PDM vozidel - by GrumpyJéňa
+    • Pár nových vozidel - by Tommy
+    • Opravené garáže (palivo a repair)
+    • Zvýšený Loot v nelegál tabletu
+    • Úprava cen drog
+
 # DevLog 1.0.5 - 29/12/2024
     • Nový Loading Screen
     • Nové Oblečení
