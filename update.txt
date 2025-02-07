@@ -1,3 +1,8 @@
+# DevLog 1.2.1 - 07/02/2025
+    • Opravený EMS job
+    • Opravené zvonky na LSSD a LSPD
+    • Nový EUP - by Sabča
+
 # DevLog 1.2.1 - 05/02/2025
     • Nová Nemocnice
     • Nová LSPD stanice
