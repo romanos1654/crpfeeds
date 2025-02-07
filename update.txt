@@ -1,4 +1,4 @@
-# DevLog 1.2.1 - 07/02/2025
+# DevLog 1.2.2 - 07/02/2025
     • Opravený EMS job
     • Opravené zvonky na LSSD a LSPD
     • Nový EUP - by Sabča
