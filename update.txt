@@ -1,3 +1,8 @@
+# DevLog 1.2.3 - 08/02/2025
+    • Opravený EMS (už nebere věci)
+    • Opravený Grill (kuřecí maso)
+    • Odstraněné nepoužívané MLOčka
+
 # DevLog 1.2.2 - 07/02/2025
     • Opravený EMS job
     • Opravené zvonky na LSSD a LSPD
