@@ -1,3 +1,9 @@
+# DevLog 1.2.5 - 14/02/2025
+    • Opravený telefon (services)
+    • Přidaný přenosný grill
+    • Opravené pásy
+    • Nějáké další srandy --> pak to doplním teď jsem si nevzpomněl
+
 # DevLog 1.2.3 - 08/02/2025
     • Opravený EMS (už nebere věci)
     • Opravený Grill (kuřecí maso)
