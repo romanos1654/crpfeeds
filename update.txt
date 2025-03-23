@@ -1,9 +1,10 @@
 # DevLog 1.2.7 - 22/03/2025
     • Nové VIP vozidla
-    • Nové vozdidla
+    • Nové vozidla
     • Úprava drog
     • Drony pro státní složky
     • Přidaný parlament
+    • Nové bannery
 
 # DevLog 1.2.5 - 14/02/2025
     • Opravený telefon (services)
