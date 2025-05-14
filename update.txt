@@ -1,4 +1,9 @@
 # DevLog 1.3.1 - 04/05/2025
+    • /loc pro státní složky
+    • Auto Exotic (autobazar)
+    • Nevím co dál stejěně to nikdo nečte
+
+# DevLog 1.3.1 - 04/05/2025
     • Lokátor
     • Úprava vozidel
     • Možnost vystoupit a ponechat zapnutý motor
